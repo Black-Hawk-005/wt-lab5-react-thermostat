@@ -2,6 +2,8 @@
 
 A simple interactive thermostat application built with React and Vite. This project allows users to control and display temperature in both Celsius and Fahrenheit units.
 
+🌐 **Live Demo:** [https://black-hawk-005.github.io/wt-lab5-react-thermostat/](https://black-hawk-005.github.io/wt-lab5-react-thermostat/)
+
 ## Features
 
 - Temperature display in Celsius and Fahrenheit
@@ -64,15 +66,6 @@ npm run preview
 ```bash
 npm run lint
 ```
-
-### Deploy to GitHub Pages
-
-```bash
-npm run deploy
-```
-
-This will build the project and deploy it to GitHub Pages. Your site will be available at:
-`https://black-hawk-005.github.io/wt-lab5-react-thermostat/`
 
 ## Technologies Used
 

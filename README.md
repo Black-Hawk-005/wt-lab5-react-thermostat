@@ -65,6 +65,15 @@ npm run preview
 npm run lint
 ```
 
+### Deploy to GitHub Pages
+
+```bash
+npm run deploy
+```
+
+This will build the project and deploy it to GitHub Pages. Your site will be available at:
+`https://black-hawk-005.github.io/wt-lab5-react-thermostat/`
+
 ## Technologies Used
 
 - **React 19.1.1** - UI library
